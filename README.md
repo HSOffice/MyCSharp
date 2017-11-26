@@ -40,3 +40,7 @@ C# 5.0 => 2012
 C# 4.0 => 2010
 
 C# 3.0 => 2008
+
+版本区别
+
+https://www.visualstudio.com/zh-hans/vs/compare/
