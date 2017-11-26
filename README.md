@@ -8,3 +8,11 @@ http://www.cnblogs.com/powertoolsteam/p/3-new-c-8-features.html
 [干货来袭]C#7.0新特性(VS2017可用)
 
 http://www.cnblogs.com/GuZhenYin/p/6526041.html
+
+c# 6.0新特性（一）
+
+http://www.cnblogs.com/wolf-sun/p/5168217.html
+
+c# 6.0新特性（二）
+
+http://www.cnblogs.com/wolf-sun/p/5172914.html
