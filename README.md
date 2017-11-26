@@ -24,3 +24,14 @@ http://www.cnblogs.com/TianFang/archive/2012/08/19/2646146.html
 C# 5.0 抢先看
 
 http://www.cnblogs.com/architect/archive/2011/05/23/2054197.html
+
+C# 4.0新特性
+
+http://www.cnblogs.com/yangqi/archive/2010/07/16/1778767.html
+
+C# 8.0 => 下代
+C# 7.0 => 2017
+C# 6.0 => 2015
+C# 5.0 => 2012
+C# 4.0 => 2010
+C# 3.0 => 2008
