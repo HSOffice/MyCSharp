@@ -20,3 +20,7 @@ http://www.cnblogs.com/wolf-sun/p/5172914.html
 C# 5.0中新增特性
 
 http://www.cnblogs.com/TianFang/archive/2012/08/19/2646146.html
+
+C# 5.0 抢先看
+
+http://www.cnblogs.com/architect/archive/2011/05/23/2054197.html
