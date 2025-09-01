@@ -44,3 +44,8 @@ C# 3.0 => 2008
 版本区别
 
 https://www.visualstudio.com/zh-hans/vs/compare/
+
+## TetrisGame
+
+A simple console-based Tetris game written in C#.
+Navigate to the TetrisGame directory and run with `dotnet run` (requires .NET 6 SDK).
